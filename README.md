@@ -1,1 +1,1 @@
-# AFPI-PAD
+We propose a Universal and Generalized Iris Presentation Attack Detection Method, which has been submitted to a journal for possible publication. The codes and weights will be publicly available upon acceptance.
